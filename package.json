@@ -1,0 +1,22 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JazmyneB/RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JazmyneB/RPG/issues"
+  },
+  "homepage": "https://github.com/JazmyneB/RPG#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
